@@ -3,7 +3,7 @@ Hi, I'm @DocMan32 im pretty new to coding and want to learn as much as i can to 
 - 🌱 I’m currently learning c++, game engine code eg godot, gamemaker that kinda stuff.
 - 💞️ I’m looking to collaborate on anything that will help improve/teach me about coding in genral
 - 📫 How to reach me uhhh email.... email *usually* works 
-- 😄 Pronouns: he/toaster/attack helicopter/N/A
+- 😄 Pronouns: he/her/idc
 - ⚡ Fun fact: i am currently residing inside your walls =) ps hide your body pillow for christ sake
 
 <!---
