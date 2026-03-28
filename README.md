@@ -4,8 +4,7 @@ Hi, I'm @DocMan32 im pretty new to coding and want to learn as much as i can to 
 - 💞️ I’m looking to collaborate on anything that will help improve/teach me about coding in genral
 - 📫 How to reach me uhhh email.... email *usually* works 
 - 😄 Pronouns: he/her/idc
-- ⚡ Fun fact: i am currently residing inside your walls =) ps hide your body pillow for christ sake
-
+- ⚡ Fun fact: i am currently residing inside your walls =)
 <!---
 DocMan32/DocMan32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
